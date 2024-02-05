@@ -148,7 +148,7 @@
         "[resourceId('Microsoft.Web/sites/', variables('certStoreFunctionAppName'))]"
       ],
       "properties": {
-        "packageUri": "https://raw.githubusercontent.com/Cirrent/iot_azure_quickstart_bulk/master/releases/az-cert-store.zip"
+        "packageUri": "https://raw.githubusercontent.com/Cirrent/iot_azure_quickstart_bulk/master/releases/azure-cert-store.zip"
       }
     },
     {
@@ -246,7 +246,7 @@
         "[resourceId('Microsoft.Web/sites/', variables('queueFunctionAppName'))]"
       ],
       "properties": {
-        "packageUri": "https://raw.githubusercontent.com/Cirrent/iot_azure_quickstart_bulk/master/releases/az-queue.zip"
+        "packageUri": "https://raw.githubusercontent.com/Cirrent/iot_azure_quickstart_bulk/master/releases/azure-queue.zip"
       }
     }
   ],
